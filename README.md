@@ -1,2 +1,2 @@
-# Datascience
-Regression
+# Supervised ML
+Simple Linear Regression
